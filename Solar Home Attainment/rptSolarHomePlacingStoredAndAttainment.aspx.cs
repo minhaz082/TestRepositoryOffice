@@ -101,6 +101,7 @@ namespace EATL.WebClient.CommonUI
             catch (Exception ex)
             {
                 lblWarning.Text = ex.Message.ToString();
+				//this is test line for testing for git change
             }
             
 
